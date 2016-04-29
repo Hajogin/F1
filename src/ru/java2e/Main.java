@@ -8,7 +8,7 @@ public class Main {
 
         JFrame f = new JFrame("Java F1");
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        f.setSize(1280, 720);
+        f.setSize(1300, 900);
         f.add(new Road());
         f.setVisible(true);
 
